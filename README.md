@@ -3,6 +3,9 @@
 ## Overview
 The Australian Housing Dashboard provides insights into properties sold across various suburbs. This tool is designed to help real estate agents, buyers, and market analysts understand housing market trends based on recent sales data.
 
+![image](https://github.com/user-attachments/assets/00e373b8-8c43-4383-9bc3-85c78e997835)
+
+
 ## Features
 
 - 📑 **Suburb Filter**: Allows users to select different suburbs to view localized market data.
